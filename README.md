@@ -17,11 +17,11 @@ My goal to predict: who will buy our insurance?
 
 To do this I should do next things:
 
-To make exploratory data analysis\
+To make exploratory data analysis
 
-To prepare our data for Machine Learning\
+To prepare our data for Machine Learning
 
-To build and upgrade our Machine Learning model\
+To build and upgrade our Machine Learning model
 
 
 ## Exploratory Data Analysis
